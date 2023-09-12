@@ -127,10 +127,7 @@ After the control shifts to _playwindow_, call function of _playwindow_ is calle
 _Technical Support:_
 To contact game developers kindly mail to any of the following mails:
 
-cs20btech11054@iith.ac.in   
-cs20btech11034@iith.ac.in   
-cs20btech11050@iith.ac.in   
-cs20btech11025@iith.ac.in 
+ma20btech11020@iith.ac.in
 
 **Thankyou for Playing our Game hope you enjoy yourselves** 
 _____________________________________________________________________________________________________________________________________________________________________________
